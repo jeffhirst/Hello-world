@@ -1,2 +1,2 @@
 # Hello-world
-Sample repository
+Sample repository created by jlh
